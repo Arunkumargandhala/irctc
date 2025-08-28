@@ -1,0 +1,134 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    margin: 5px;
+    font-size: 10px;
+}
+button{
+    background-color: darkblue;
+    color: beige;
+    border: none;
+}
+.vande{
+    background-image: url(vande\ barath.jpg);
+    width:100%;
+    height:100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  
+}
+.clip{
+    padding:20px 30px;
+    margin-left: 25px;
+}
+.board{
+position: absolute;
+    background-color:transparent;
+    border:1px solid black;
+    width: 450px;
+    margin-top: 60px;
+    margin-left: 60px;
+}
+.teligram{
+    position: absolute;
+}
+.input{
+    position: relative
+}
+.flight{
+    border: 1px solid black;
+    border-radius: 30px;
+    height: 30px; 
+    width: 30px;
+}
+.flight:hover{
+    background-color: blue;
+}
+.hotel{
+    border: 1px solid black;
+    border-radius: 30px;
+    height: 30px; 
+    width: 30px;
+}
+.stock{
+    border: 1px solid black;
+    border-radius: 30px;
+    height: 30px; 
+    width: 30px;
+}
+.restarent{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+}
+.cat{
+    border: 1px solid black;
+    border-radius: 30px;
+    height: 30px; 
+    width: 30px;
+}
+.Bus{
+    border: 1px solid black;
+    border-radius: 30px;
+    height: 30px; 
+    width: 30px;
+}
+.trips{
+     display: flex;
+    justify-content: space-evenly;
+}
+.holiday{
+    border: 1px solid black;
+    border-radius: 30px;
+    height: 30px; 
+    width: 30px;
+}
+.Train{
+     border: 1px solid black;
+    border-radius: 30px;
+    height: 30px; 
+    width: 30px;
+}
+.Hills{
+    
+     border: 1px solid black;
+    border-radius: 30px;
+    height: 30px; 
+    width: 30px;
+
+}
+.central{
+     border: 1px solid black;
+    border-radius: 30px;
+    height: 30px; 
+    width: 30px;
+    
+}
+.icons:hover{
+    background-color: blue;
+    color: white;
+}
+.youtube{
+    border: 1px solid black;
+    box-shadow: 0 10px 10px 0;
+    border-radius: 20px ;
+    width: 320px;
+    margin-left: 300px;
+    margin-top: 30px;
+}
+input,select{
+    background-color: transparent;
+    border: 1px solid white;
+}
+.facebook{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+    background-color: rgb(109, 48, 167);
+    color: azure;
+}
