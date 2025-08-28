@@ -125,6 +125,7 @@ position: absolute;
 input,select{
     background-color: transparent;
     border: 1px solid white;
+    color:white;
 }
 .facebook{
     display: flex;
@@ -134,3 +135,4 @@ input,select{
     color: azure;
 
 }
+
